@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/project4.dir/proj4.cpp.o CMakeFiles/project4.dir/LinkedNodeClass.cpp.o CMakeFiles/project4.dir/SortedListClass.cpp.o CMakeFiles/project4.dir/FIFOQueueClass.cpp.o CMakeFiles/project4.dir/LIFOStackClass.cpp.o -o project4 

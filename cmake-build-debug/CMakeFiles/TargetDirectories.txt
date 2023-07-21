@@ -1,0 +1,3 @@
+/home/yyanga/proj4test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yyanga/proj4test/cmake-build-debug/CMakeFiles/project4.dir
+/home/yyanga/proj4test/cmake-build-debug/CMakeFiles/edit_cache.dir
